@@ -14,4 +14,5 @@ strlib.c, creating a string library with the following functions:
 array and copy S to it. The new array will then be returned
 
 Inside the second folder:
+second.c
 Implement mergesort, sorting an array of strings. Use the strlib created in first part
